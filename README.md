@@ -1,0 +1,2 @@
+# coursera_machine_learning_stanford_university
+weekly assignments
